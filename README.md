@@ -1,5 +1,5 @@
 
-# React Video Meeting App
+# React Video Call App
 
 This is a simple React-based video call application that allows users to join video calls using ZegoCloud's prebuilt UI kit.
 
